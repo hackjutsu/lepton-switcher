@@ -1,0 +1,14 @@
+{
+  "name": "lepton-switch",
+  "version": "1.0.0",
+  "description": "commandline to switch between lepton for github and lepton for github enterprise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lepton"
+  ],
+  "author": "",
+  "license": "ISC"
+}
