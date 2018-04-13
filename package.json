@@ -10,5 +10,9 @@
     "lepton"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "consola": "^1.2.0",
+    "npm": "^5.8.0"
+  }
 }
